@@ -6,7 +6,7 @@ html {
   font-size: 62.5%; }
 
 body {
-  font-size: 3rem; }
+  font-size: 2.8rem; }
 
 .tamLogo {
   width: 12rem; }
@@ -43,10 +43,6 @@ body {
 
 .politica, .politica1 {
   display: flex; }
-
-.nosotros {
-  display: flex;
-  justify-content: center; }
 
 .imgCarousel {
   height: 450px;
@@ -102,8 +98,8 @@ body {
     width: 90%;
     height: 315px; } }
 
-.fuenteConsejo {
-  font-size: 2rem; }
+.colorPreguntas {
+  color: #77916e; }
 
 .footer {
   font-size: 2rem;
@@ -122,8 +118,8 @@ body {
   font-size: 1.5rem; }
 
 .campoTienda {
-  font-size: 1.5rem;
-  width: 90%; }
+  width: 90%;
+  font-size: 1.5rem; }
 
 .imagenTienda {
   width: 90%;
